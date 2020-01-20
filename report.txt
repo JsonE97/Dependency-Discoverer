@@ -1,0 +1,4 @@
+Jason Egan		2191867E
+AE2 - Report
+
+The program works fully and is identical to the specification of the multithread concept. The number of crawler threads can be determined by the environment variable CRAWLER_THREADS and if it is non-existent then it is set to 2 as default. I know my implementation of the multithreads works because run times are a lot faster with my multithread implementation in comparison to my single threaded version.
